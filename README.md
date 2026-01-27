@@ -236,13 +236,12 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ProxyAyush&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+
+![GitHub Stars](https://img.shields.io/github/stars/ProxyAyush?style=for-the-badge&logo=github&color=F85D7F&labelColor=0D1117)
+![GitHub Followers](https://img.shields.io/github/followers/ProxyAyush?style=for-the-badge&logo=github&color=F8D866&labelColor=0D1117)
+![GitHub Repos](https://img.shields.io/badge/Public%20Repos-10+-blue?style=for-the-badge&logo=github&labelColor=0D1117)
+
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
 
 ## 🤝 Let's Connect
 
