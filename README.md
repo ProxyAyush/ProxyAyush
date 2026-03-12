@@ -29,13 +29,13 @@
 
   <!-- Animated Typing -->
   <a href="https://github.com/ProxyAyush">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+cool+stuff+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+the+Future+of+Local+AI;AI-Native+OS+Architect" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <a href="https://github.com/ProxyAyush">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=F778BA&center=true&vCenter=true&width=600&lines=Android+Developer;AI+Engineer;Creator+of+Lumyxo;Medical+AI+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=F778BA&center=true&vCenter=true&width=600&lines=Creator+of+AEGISbot;Medical+AI+Researcher;NixOS+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
   </a>
 
 </div>
@@ -50,17 +50,13 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
 
-Hey there! I'm a **Software Engineer** and **Doctor** passionate about healthcare, gaming, and AI.
+Hey there! I'm a **Software Engineer** and **Doctor** building the future of local AI and agentic systems.
 
-🎮 Creator of **[Lumyxo](https://play.google.com/store/apps/details?id=com.ayushyadav.lumixo)** - Zen puzzle game on Play Store
-
-🏥 Built **[KGMU AI Chatbot](https://kgmu.org)** - Live on official university website
-
-🔬 Developed **SortEase** - AI biomedical waste sorting (93% accuracy)
-
-🎓 Medical student turned tech entrepreneur
-
-💡 Exploring the boundaries of AI in healthcare
+🤖 **AEGISbot** — Building a fully local, always-listening personal AI agent.
+🧠 **NeuroGliaOS** — Developing an AI-native operating system based on NixOS.
+🔬 **X-Exam** — Researching adversarial reasoning for LLM factual reliability.
+🎓 Medical student turned tech entrepreneur.
+💡 Exploring the boundaries of AI in healthcare and system architecture.
 
 </td>
 <td width="40%">
@@ -78,7 +74,7 @@ Hey there! I'm a **Software Engineer** and **Doctor** passionate about healthcar
 
 ### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,javascript,typescript,html,css&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,javascript,typescript,cpp,c,nix&theme=dark&perline=8" />
 </a>
 
 ### Mobile & AI
@@ -88,11 +84,11 @@ Hey there! I'm a **Software Engineer** and **Doctor** passionate about healthcar
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge&logo=groq&logoColor=white)
 
 ### Tools & Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,cloudflare,gcp,git,github,vscode,gradle&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=firebase,cloudflare,gcp,git,github,vscode,gradle,linux&theme=dark&perline=8" />
 </a>
 
 </div>
@@ -102,88 +98,21 @@ Hey there! I'm a **Software Engineer** and **Doctor** passionate about healthcar
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
-<div align="center">
+### 🚀 Active Ventures
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **[AEGISbot](https://github.com/ProxyAyush/AEGISbot)** | Fully local, always-listening AI agent for Android, iOS, and Desktop. | `ONGOING` |
+| **[X-Exam](https://github.com/ProxyAyush/X-exam-llm)** | Adversarial reasoning framework for LLM factual verification. | `ONGOING` |
+| **NeuroGliaOS** | An AI-native operating system designed for agentic workflows (NixOS based). | `ONGOING` |
+| **IKOKI** | MicroPDF-SAAS for efficient document processing and extraction. | `ONGOING` |
 
-<a href="https://github.com/ProxyAyush/lumyxo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProxyAyush&repo=lumyxo&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&v=4" />
-</a>
-<a href="https://github.com/ProxyAyush/KGMU_AI_Chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProxyAyush&repo=KGMU_AI_Chatbot&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&v=4" />
-</a>
-
-<a href="https://github.com/ProxyAyush/SortEase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProxyAyush&repo=SortEase&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&v=4" />
-</a>
-<a href="https://github.com/ProxyAyush/eatcha">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProxyAyush&repo=eatcha&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&v=4" />
-</a>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🎮 Lumyxo
-
-<a href="https://play.google.com/store/apps/details?id=com.ayushyadav.lumixo">
-  <img src="https://img.shields.io/badge/GET_IT_ON-Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
-
-✨ Makoto Shinkai visuals<br/>
-🎵 74 lofi tracks<br/>
-🏆 Global leaderboards<br/>
-⚡ 60fps custom engine
-
-</td>
-<td width="50%" align="center">
-
-### 🤖 KGMU AI Chatbot
-
-<a href="https://kgmu.org">
-  <img src="https://img.shields.io/badge/LIVE-KGMU.org-0056b3?style=for-the-badge" />
-</a>
-
-🧠 Gemini AI Powered<br/>
-☁️ Cloudflare Backend<br/>
-🌍 English + Hindi<br/>
-👥 Thousands of users
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### ♻️ SortEase
-
-<a href="https://drive.google.com/file/d/1HTSh1ZXPxuSx9p0cGADI5bKpb235OGjg/view?usp=drivesdk">
-  <img src="https://img.shields.io/badge/WATCH-Demo-FF0000?style=for-the-badge" />
-</a>
-
-🎯 93% accuracy<br/>
-🔬 YOLOv8s model<br/>
-💉 7 sharps types<br/>
-🏥 AIIMS Hackathon
-
-</td>
-<td width="50%" align="center">
-
-### ☕ Eatcha
-
-<a href="https://github.com/ProxyAyush/eatcha">
-  <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-📦 GitHub Issues DB<br/>
-🎂 Birthday tracking<br/>
-⚡ Zero cost<br/>
-🏪 Imphal Cafe
-
-</td>
-</tr>
-</table>
+### 🏆 Milestone Projects
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **[Lumyxo](https://github.com/ProxyAyush/lumyxo)** | Zen block puzzle game with 74 lofi tracks and global leaderboards. | `COMPLETED` |
+| **[KGMU AI Chatbot](https://github.com/ProxyAyush/KGMU_AI_Chatbot)** | Gemini-powered chatbot for India's premier medical university. | `COMPLETED` |
+| **[SortEase](https://github.com/ProxyAyush/SortEase)** | AI biomedical waste sorting with 93% accuracy (YOLOv8). | `COMPLETED` |
+| **[Eatcha](https://github.com/ProxyAyush/eatcha)** | Serverless customer feedback system for Imphal Cafe. | `COMPLETED` |
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -192,16 +121,12 @@ Hey there! I'm a **Software Engineer** and **Doctor** passionate about healthcar
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProxyAyush&theme=github_dark" width="90%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ProxyAyush&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProxyAyush&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ProxyAyush&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=F778BA&text_color=ffffff&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProxyAyush&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=ffffff" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ProxyAyush&theme=github-dark-blue&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=ProxyAyush&theme=transparent&hide_border=true&stroke=58A6FF&ring=F778BA&fire=F778BA&currStreakLabel=58A6FF" />
 
 <br/><br/>
 
