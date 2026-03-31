@@ -29,13 +29,13 @@
 
   <!-- Animated Typing -->
   <a href="https://github.com/ProxyAyush">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+the+Future+of+Local+AI;AI-Native+OS+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+the+Future+of+Local+AI;AI-Native+OS+Architect;Leading+Claw-Termux" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <a href="https://github.com/ProxyAyush">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=F778BA&center=true&vCenter=true&width=600&lines=Creator+of+AEGISbot;Medical+AI+Researcher;NixOS+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=F778BA&center=true&vCenter=true&width=600&lines=Creator+of+Claw-Termux;Creator+of+AEGISbot;Medical+AI+Researcher;NixOS+Enthusiast" alt="Typing SVG" />
   </a>
 
 </div>
@@ -53,6 +53,7 @@
 Hey there! I'm a **Software Engineer** and **Doctor** building the future of local AI and agentic systems.
 
 🤖 **AEGISbot** — Building a fully local, always-listening personal AI agent.
+⚙️ **Claw-Termux** — Employee-grade, agentic CLI coding assistant for Android.
 🧠 **NeuroGliaOS** — Developing an AI-native operating system based on NixOS.
 🔬 **X-Exam** — Researching adversarial reasoning for LLM factual reliability.
 🎓 Medical student turned tech entrepreneur.
@@ -101,6 +102,7 @@ Hey there! I'm a **Software Engineer** and **Doctor** building the future of loc
 ### 🚀 Active Ventures
 | Project | Description | Status |
 | :--- | :--- | :--- |
+| **[Claw-Termux](https://github.com/ProxyAyush/Claw-Termux)** | Employee-grade, agentic CLI coding assistant optimized for Android/Termux. | `ONGOING` |
 | **[AEGISbot](https://github.com/ProxyAyush/AEGISbot)** | Fully local, always-listening AI agent for Android, iOS, and Desktop. | `ONGOING` |
 | **[X-Exam](https://github.com/ProxyAyush/X-exam-llm)** | Adversarial reasoning framework for LLM factual verification. | `ONGOING` |
 | **NeuroGliaOS** | An AI-native operating system designed for agentic workflows (NixOS based). | `ONGOING` |
