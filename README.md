@@ -100,12 +100,12 @@ Hey there! I'm a **Software Engineer** and **Doctor** building the future of loc
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 ### 🏆 Milestone Projects
+
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[KGMU AI Chatbot](https://github.com/ProxyAyush/KGMU_AI_Chatbot)** | Gemini-powered chatbot for India's premier medical university. | `COMPLETED` |
 | **[SortEase](https://github.com/ProxyAyush/SortEase)** | AI biomedical waste sorting with 93% accuracy (YOLOv8). | `COMPLETED` |
-
-**[Lumyxo](https://github.com/ProxyAyush/lumyxo)** | Zen block puzzle game with 74 lofi tracks and global leaderboards. | `COMPLETED` |
+| **[Lumyxo](https://github.com/ProxyAyush/lumyxo)** | Zen block puzzle game with 74 lofi tracks and global leaderboards. | `COMPLETED` |
 | **[Eatcha](https://github.com/ProxyAyush/eatcha)** | Serverless customer feedback system for Imphal Cafe. | `COMPLETED` |
 
 ### 🚀 Active Ventures
