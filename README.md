@@ -99,6 +99,14 @@ Hey there! I'm a **Software Engineer** and **Doctor** building the future of loc
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
+### 🏆 Milestone Projects
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **[Lumyxo](https://github.com/ProxyAyush/lumyxo)** | Zen block puzzle game with 74 lofi tracks and global leaderboards. | `COMPLETED` |
+| **[KGMU AI Chatbot](https://github.com/ProxyAyush/KGMU_AI_Chatbot)** | Gemini-powered chatbot for India's premier medical university. | `COMPLETED` |
+| **[SortEase](https://github.com/ProxyAyush/SortEase)** | AI biomedical waste sorting with 93% accuracy (YOLOv8). | `COMPLETED` |
+| **[Eatcha](https://github.com/ProxyAyush/eatcha)** | Serverless customer feedback system for Imphal Cafe. | `COMPLETED` |
+
 ### 🚀 Active Ventures
 | Project | Description | Status |
 | :--- | :--- | :--- |
@@ -108,13 +116,6 @@ Hey there! I'm a **Software Engineer** and **Doctor** building the future of loc
 | **NeuroGliaOS** | An AI-native operating system designed for agentic workflows (NixOS based). | `ONGOING` |
 | **IKOKI** | MicroPDF-SAAS for efficient document processing and extraction. | `ONGOING` |
 
-### 🏆 Milestone Projects
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| **[Lumyxo](https://github.com/ProxyAyush/lumyxo)** | Zen block puzzle game with 74 lofi tracks and global leaderboards. | `COMPLETED` |
-| **[KGMU AI Chatbot](https://github.com/ProxyAyush/KGMU_AI_Chatbot)** | Gemini-powered chatbot for India's premier medical university. | `COMPLETED` |
-| **[SortEase](https://github.com/ProxyAyush/SortEase)** | AI biomedical waste sorting with 93% accuracy (YOLOv8). | `COMPLETED` |
-| **[Eatcha](https://github.com/ProxyAyush/eatcha)** | Serverless customer feedback system for Imphal Cafe. | `COMPLETED` |
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
