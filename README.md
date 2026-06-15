@@ -104,6 +104,7 @@ Hey there! I'm a **Software Engineer** and **Doctor** building the future of loc
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[KGMU AI Chatbot](https://github.com/ProxyAyush/KGMU_AI_Chatbot)** | Gemini-powered chatbot for India's premier medical university. | `COMPLETED` |
+| **[Antigravity Fusion Plugin](https://github.com/ProxyAyush/antigravity-fusion-plugin)** | Multi-model fusion for Antigravity, Claude Code, and Codex CLI. | `COMPLETED` |
 | **[SortEase](https://github.com/ProxyAyush/SortEase)** | AI biomedical waste sorting with 93% accuracy (YOLOv8). | `COMPLETED` |
 | **[Lumyxo](https://github.com/ProxyAyush/lumyxo)** | Zen block puzzle game with 74 lofi tracks and global leaderboards. | `COMPLETED` |
 | **[Eatcha](https://github.com/ProxyAyush/eatcha)** | Serverless customer feedback system for Imphal Cafe. | `COMPLETED` |
