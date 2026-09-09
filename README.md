@@ -108,6 +108,7 @@ Hey there! I'm a **Software Engineer** and **Doctor** building the future of loc
 | **[SortEase](https://github.com/ProxyAyush/SortEase)** | AI biomedical waste sorting with 93% accuracy (YOLOv8). | `COMPLETED` |
 | **[Lumyxo](https://github.com/ProxyAyush/lumyxo)** | Zen block puzzle game with 74 lofi tracks and global leaderboards. | `COMPLETED` |
 | **[Eatcha](https://github.com/ProxyAyush/eatcha)** | Serverless customer feedback system for Imphal Cafe. | `COMPLETED` |
+| **[RankLab](https://proxyayush.github.io/RankLab/)** | Fast, dependency-free NEET-PG marks-to-AIR explorer and research model. | `COMPLETED` |
 
 ### 🚀 Active Ventures
 | Project | Description | Status |
